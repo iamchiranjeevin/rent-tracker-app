@@ -10,6 +10,9 @@
       "supportsTablet": true
     },
     "android": {
+      "compileSdkVersion": 36,
+      "targetSdkVersion": 36,
+      "minSdkVersion": 24,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -17,7 +20,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.rentreminderapp"
+      "package": "com.chiranjeevi.rentreminderapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
