@@ -20,6 +20,7 @@ A React Native / Expo app for managing tenant reminders, rent status, and schedu
 - Improve reminder editing and quick actions within each accordion section.
 - Add richer notification history and overdue reminder insights.
 - Add vibration to notification reminders
+- Add customized app icon
 
 ## Verification
 
