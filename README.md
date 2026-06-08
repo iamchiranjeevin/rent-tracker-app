@@ -1,4 +1,4 @@
-# RentReminderApp
+# Rent Tracker App
 
 A React Native / Expo app for managing tenant reminders, rent status, and scheduled notifications.
 
