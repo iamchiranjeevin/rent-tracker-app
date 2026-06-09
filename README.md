@@ -24,6 +24,8 @@ A React Native / Expo app for managing tenant reminders, rent status, and schedu
 - Decrease apk size
 - Allow user to customize what's app remainder message instead of default one
 - All user to send bulk what's app messages to unpaid renters
+- Add ios support
+- Add 3 reminders per tenant
 
 ## Verification
 
